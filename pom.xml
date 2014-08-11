@@ -33,9 +33,9 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/webjars/reconnecting-websocket-webjar</url>
-        <connection>scm:git:https://github.com/webjars/reconnecting-websocket-webjar.git</connection>
-        <developerConnection>scm:git:https://github.com/webjars/reconnecting-websocket-webjar.git</developerConnection>
+        <url>https://github.com/webjars/reconnecting-websocket</url>
+        <connection>scm:git:https://github.com/webjars/reconnecting-websocket.git</connection>
+        <developerConnection>scm:git:https://github.com/webjars/reconnecting-websocket.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
     
